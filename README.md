@@ -4,7 +4,7 @@ This project demonstrates an end-to-end Business Intelligence solution where cli
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack 
 
 - **AWS S3** – Cloud storage for raw climate data (.csv)
 - **Snowflake** – Cloud data warehouse for data processing
